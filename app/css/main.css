@@ -1,10 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:100");
 @import url("https://fonts.googleapis.com/css?family=Roboto:300");
-.col-md-6 {
-  border: 1px solid; }
+
 
 .col-md-12 {
-  border: 1px solid green;
+
   margin: 40px; }
 
 img {
